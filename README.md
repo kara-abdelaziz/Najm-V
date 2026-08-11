@@ -20,7 +20,7 @@ To simulate this processor, you will need the **Digital** logic simulator.
 > Download it here: [HNeemann/Digital](https://github.com/hneemann/Digital)
 
 ### 1. Initial Setup
-1. Clone this repository: `git clone https://github.com/kara-abdelaziz/RISC-V-5P.git`, or download directly the zip file
+1. Clone this repository: `git clone https://github.com/kara-abdelaziz/Najm-V.git`, or download directly the zip file
 2. Open **Digital**.
 3. Go to `File -> Open` and select the main circuit file `cpu.dig`.
 
